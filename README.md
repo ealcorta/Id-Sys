@@ -20,15 +20,15 @@ Las entradas y salidas del sistema están conectadas a los siguientes pines.
 
 Entradas analógicas
 
-Pin A1. Voltaje en el capacitor 1, denotado por X1 en el software y por 
+* Pin A1. Voltaje en el capacitor 1, denotado por X1 en el software y por 
  en la descripción del algoritmo.
-Pin A2. Voltaje en el capacitor 2, denotado por X2 en el software y por 
+* Pin A2. Voltaje en el capacitor 2, denotado por X2 en el software y por 
  en la descripción del algoritmo.
 
 Salidas analógicas (PWM)
-Pin 10. Señal de control, denotado por U en el software y por 
+* Pin 10. Señal de control, denotado por U en el software y por 
  en la descripción del algoritmo.
 
 Entradas discretas
-Pin 2. Entrada de arranque, denotado por SW2 en el software.
-Pin 3. Entrada de paro, denotado por SW3 en el software.
+* Pin 2. Entrada de arranque, denotado por SW2 en el software.
+* Pin 3. Entrada de paro, denotado por SW3 en el software.
