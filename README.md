@@ -1,4 +1,4 @@
-# Practicas de identificación
+# Actividad 1 de identificación
 
 ## Tabla de contenidos
 * [Información general](#Información general)
